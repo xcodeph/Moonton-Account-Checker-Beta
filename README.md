@@ -12,6 +12,6 @@ cd CheckerMoonton
 python moonton.py
 ```
 
-# SUBSCRIBE NOW
+# FACEBOOK
 
 ![IMG](fb.png)
