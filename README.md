@@ -7,7 +7,7 @@
 pkg update && pkg upgrade
 pkg install python git
 pip install requests futures bs4
-git clone xxxx
+git clone https://github.com/xcodeph/Moonton-Account-Checker-Beta.git
 cd CheckerMoonton
 python moonton.py
 ```
